@@ -202,7 +202,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\divya\\OneDrive\\Desktop\\Developers\\hackernews-backend-final\\src\\generated\\prisma",
+      "value": "C:\\Users\\USER\\OneDrive\\Desktop\\hackernews-backend-final\\src\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -216,7 +216,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\divya\\OneDrive\\Desktop\\Developers\\hackernews-backend-final\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\hackernews-backend-final\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
@@ -230,11 +230,12 @@ const config = {
     "db"
   ],
   "activeProvider": "postgresql",
+  "postinstall": false,
   "inlineDatasources": {
     "db": {
       "url": {
         "fromEnvVar": "DATABASE_URL",
-        "value": "postgresql://postgres.hjhwfirnlorkesnjtskk:cuzU02zGVXxKCauO@aws-0-ap-south-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+        "value": null
       }
     }
   },
